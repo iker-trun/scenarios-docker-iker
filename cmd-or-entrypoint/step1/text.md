@@ -57,7 +57,7 @@ Explore CMD of `cmd-echo`:
 <br>
 
 ```plain
-docker inspect cmd-echo | jq .[0].ContainerConfig.Cmd
+docker inspect cmd-echo | jq .[0].Config.Cmd
 ```{{exec}}
 
 <br>
