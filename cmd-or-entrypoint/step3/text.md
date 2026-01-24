@@ -86,8 +86,8 @@ Explore CMD and ENTRYPOINT of `image-echo`:
 <br>
 
 ```plain
-docker inspect image-echo | jq .[0].ContainerConfig.Cmd &&
-docker inspect image-echo | jq .[0].ContainerConfig.Entrypoint
+docker inspect image-echo | jq .[0].Config.Cmd &&
+docker inspect image-echo | jq .[0].Config.Entrypoint
 ```{{exec}}
 
 <br>

@@ -82,7 +82,7 @@ Explore ENTRYPOINT of `entrypoint-echo`:
 <br>
 
 ```plain
-docker inspect entrypoint-echo | jq .[0].ContainerConfig.Entrypoint
+docker inspect entrypoint-echo | jq .[0].Config.Entrypoint
 ```{{exec}}
 
 <br>
