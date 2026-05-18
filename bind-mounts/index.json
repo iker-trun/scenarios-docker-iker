@@ -1,6 +1,6 @@
 {
-  "title": "Using bind mounts",
-  "description": "Start a container with bind mount",
+  "title": "Uso de montajes vinculados",
+  "description": "Iniciar un contenedor con un montaje vinculado",
   "details": {
     "intro": {
       "text": "intro.md",
