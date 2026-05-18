@@ -1,6 +1,6 @@
 {
-  "title": "Using environment variables",
-  "description": "Run docker container with environment variables",
+  "title": "El uso de variables de entorno",
+  "description": "Ejecutar un contenedor de Docker con variables de entorno",
   "details": {
     "intro": {
       "text": "intro.md",
