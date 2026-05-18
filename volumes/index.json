@@ -1,6 +1,6 @@
 {
-  "title": "Using volume mounts",
-  "description": "Run container with mounted volume",
+  "title": "Uso de unidades de almacenamiento",
+  "description": "Ejecutar un contenedor con una unidad de almacenamiento montada",
   "details": {
     "intro": {
       "text": "intro.md",
