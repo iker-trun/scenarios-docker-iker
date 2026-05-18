@@ -1,6 +1,6 @@
 {
-  "title": "Dockerfile best practices",
-  "description": "Write Dockerfile the right way",
+  "title": "Buenas prácticas para Dockerfile",
+  "description": "Cómo escribir un Dockerfile correctamente",
   "details": {
     "intro": {
       "text": "intro.md",
