@@ -1,6 +1,6 @@
 {
-  "title": "Building an image",
-  "description": "Build a container from scratch",
+  "title": "Creación de una imagen",
+  "description": "Crear un contenedor desde cero",
   "details": {
     "intro": {
       "text": "intro.md",
