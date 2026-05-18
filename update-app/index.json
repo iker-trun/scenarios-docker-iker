@@ -1,6 +1,6 @@
 {
-  "title": "Updating containerized application",
-  "description": "Rebuild image",
+  "title": "Actualización de una aplicación en contenedor",
+  "description": "Actualizar imagen",
   "details": {
     "intro": {
       "text": "intro.md",
